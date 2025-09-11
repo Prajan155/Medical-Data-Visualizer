@@ -73,25 +73,6 @@ The general workflow when using Medical_Data_Visualizer.py is:
 
 ---
 
-## 🌐 Data Processing Flow
-
-Below is a flowchart that summarizes the data processing and visualization pipeline:
-
-```mermaid
-flowchart TD
-    A[Start: Run Script] --> B[Load Data]
-    B --> C[Clean Data]
-    C --> D{Choose Visualization}
-    D -->|Distribution| E[plot_distribution()]
-    D -->|Correlation| F[plot_correlation_heatmap()]
-    D -->|Missingness| G[plot_missing_heatmap()]
-    D -->|Pairwise| H[plot_pairplot()]
-    E --> I[Show/Save Graph]
-    F --> I
-    G --> I
-    H --> I
-    I --> J[End]
-```
 
 ---
 
