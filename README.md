@@ -256,17 +256,8 @@ quadrantChart
 
 ---
 
-## 📬 Contact & Support
-
-If you have questions or need help using the visualizer:
-
-- Contact: [Your Support Email]
-- Contribute: [Your Repository Link, e.g., GitHub]
-
 ---
 
 **Happy visualizing and analyzing your medical data!** 🚀
 
 ---
-
-*Note: If you need further customization or want to add new features, consider extending the plotting functions or integrating statistical modules as required by your medical research or analysis workflow.*
