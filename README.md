@@ -118,7 +118,8 @@ def plot_correlation_heatmap(df):
 
 **Expected Output:**
 - A heatmap with color intensity and annotations showing correlation values.
-- <img width="1051" height="490" alt="download" src="https://github.com/user-attachments/assets/61791a39-7331-42c5-9b4e-fab22b8f90aa" />
+<img width="657" height="569" alt="download" src="https://github.com/user-attachments/assets/2e8d9670-6c07-4adc-a2b7-719d1ddbbd97" />
+
 
 ---
 
