@@ -259,8 +259,4 @@ quadrantChart
 
 ---
 
----
 
-**Happy visualizing and analyzing your medical data!** 🚀
-
----
