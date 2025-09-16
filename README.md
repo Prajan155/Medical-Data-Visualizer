@@ -97,6 +97,8 @@ def plot_distribution(df, column_name):
 
 **Expected Output:**
 - Histogram with a KDE line overlay.
+<img width="1051" height="490" alt="download" src="https://github.com/user-attachments/assets/121b146a-e7f7-4085-8117-7ea444019faa" />
+
 
 ---
 
@@ -116,6 +118,7 @@ def plot_correlation_heatmap(df):
 
 **Expected Output:**
 - A heatmap with color intensity and annotations showing correlation values.
+- <img width="1051" height="490" alt="download" src="https://github.com/user-attachments/assets/61791a39-7331-42c5-9b4e-fab22b8f90aa" />
 
 ---
 
@@ -134,7 +137,6 @@ def plot_missing_heatmap(df):
 
 **Expected Output:**
 - A heatmap where each cell indicates presence (or absence) of missing data.
-
 ---
 
 ### 4. Pair Plot
